@@ -1,0 +1,1 @@
+# api-ws-core-lambda-micro
